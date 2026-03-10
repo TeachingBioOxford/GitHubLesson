@@ -17,7 +17,7 @@ library(tidyverse)
 species_colours <- c(
                     "Adelie" = "darkorange",
                     "Chinstrap" = "purple",
-                    "Gentoo" = "cyan4"
+                    "Gentoo" = "cyan"
                 )
 
 # Define custom publication-ready theme (based on theme_minimal)
