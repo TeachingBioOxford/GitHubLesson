@@ -7,6 +7,7 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
+
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
 **Research location:** 
@@ -25,6 +26,7 @@ The dataset includes the following morphological measurements:
 | `bill_depth_mm` | [TODO: Include range] |
 | `flipper_length_mm` | [TODO: Include range] |
 | `body_mass_g` | [TODO: Include range] |
+
 
 ## What the Analysis Does
 
